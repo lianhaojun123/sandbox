@@ -1,1 +1,5 @@
-print("bonobo")
+def main():
+    print("bonobo")
+
+
+main()
